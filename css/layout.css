@@ -14,7 +14,7 @@ header {
   display: flex;
   margin-top: 50px;
 }
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 768px) {
   div {
     background-color: rgb(51, 51, 116);
   }
